@@ -20,7 +20,7 @@ Before using this script, ensure that you have:
 2. Ensure you have Python installed (>= 3.x).
 
 ## Usage
-1. Follow the instructions in the **Setup Guide** from the Google Drive folder.
+1. Edit the appended excel templates as needed with your data
 2. Run the following command to allocate subjects automatically:
    ```bash
    python "Python Script_deferred_acceptance_with_displacement_final4.py"
