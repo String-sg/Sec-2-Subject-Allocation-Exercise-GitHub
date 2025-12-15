@@ -6,7 +6,7 @@ This repository provides a solution for teachers to efficiently allocate subject
 ## Prerequisites
 Before using this script, ensure that you have:
 - Basic knowledge of Python (for using the script) OR
-- Use .exe for those without familiarity with Python
+- Use [.exe](https://drive.google.com/file/d/1h_vP0CMLlRzsLEIODLkiq8KqpOPv7KKj/view?usp=drive_link) for those without familiarity with Python
 - Access to the required external resources:
   - **[Google Drive Folder](https://drive.google.com/drive/u/1/folders/18R6k7c44Y1uMyx99rdclAFxVkA8oJuz9)**
   - **[RJCAT Website](https://www.rjcat.com/solutions)**
